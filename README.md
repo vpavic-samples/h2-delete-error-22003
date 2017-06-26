@@ -1,5 +1,10 @@
 # H2 Database - DELETE error 22003
 
+**UPDATE**:
+This issue was reported in [H2 Database support forum](https://groups.google.com/forum/#!msg/h2-database/ND-UYrsMBSk/yFr-s_g3BwAJ).
+
+---
+
 This is a minimal project to demonstrate _Numeric value out of range_ error that occurs when attempting to delete records using an expression in `WHERE` clause.
 For example:
 
